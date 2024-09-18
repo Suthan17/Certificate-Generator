@@ -78,11 +78,3 @@ Ensure that you have Python 3.7+ installed on your system.
 ## Challenges
 
 - **Real-time Preview**: The app does not support real-time preview due to Streamlit’s limited JavaScript support. As a solution, a single certificate preview is available before batch generation.
-
-## Future Scope
-
-- The company plans to commercialize the application to offer it as a service for organizing hackathons and similar events.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
